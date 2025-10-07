@@ -42,8 +42,8 @@
 ### 📫 Get in Touch
 
 - Phone number : 0842333914
-- LinkedIn: [linkedin.com/in/quocanh]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/l%C3%AA-qu%E1%BB%91c-anh-78b544297/))
-- Email: [quocanhle112@@gmail.com](quocanhle112@@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/l%C3%AA-qu%E1%BB%91c-anh-78b544297/](https://www.linkedin.com/in/l%C3%AA-qu%E1%BB%91c-anh-78b544297/)
+- Email: [quocanhle112@@gmail.com](quocanhle112@gmail.com)
 
 ---
 
