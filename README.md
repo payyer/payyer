@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">👋 Xin chào, mình là [Tên bạn]!</h1>
 
-<!--
-**payyer/payyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎨 <strong>Front-end Developer</strong> | 💻 Yêu thích UI/UX | 🌐 Làm việc với Web hiện đại
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Vài nét về mình:
+
+- 🌱 Hiện đang tập trung vào: **React.js**, **TypeScript**, **Next.js**
+- 🛠️ Thành thạo: HTML, CSS (SCSS, TailwindCSS), JavaScript (ES6+)
+- 🎯 Đam mê tạo ra những giao diện đẹp, tối ưu trải nghiệm người dùng
+- ⚡ Thích khám phá công nghệ mới, viết code sạch & dễ bảo trì
+
+---
+
+### 📫 Liên hệ với mình:
+
+- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- Email: your.email@example.com
+- Phone: 0842333914
+
+---
+
+<p align="center">
+  Cảm ơn bạn đã ghé thăm! 🌟
+</p>
